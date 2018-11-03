@@ -1,1 +1,1 @@
-PaypalQuick
+PaypalQuickLib
